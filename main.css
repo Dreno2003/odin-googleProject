@@ -1,0 +1,233 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: arial,sans-serif;
+}
+
+body {
+	color: #222;
+}
+
+.container {
+	margin-right: .7em;
+}
+
+.mk-bod {
+	background-color: #fff;
+}
+
+
+.mpsk{
+	display: flex;
+	justify-content: flex-end;
+	margin-top: .95em;
+}
+
+.mkli{
+	display: flex;
+	justify-content: space-around;
+		width: 16.5em;
+		font-size: 13px;
+		align-items: center;
+}
+
+.plat-img {
+	/*user img*/
+	border-radius: 50%;
+}
+
+
+.top-ext a{
+	color: black;
+	text-decoration: none;
+}
+
+.top-ext a:hover {
+	text-decoration: underline;
+}
+
+/*main content styles*/
+
+.xl-p{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.main-content{
+	margin-top: 2.54em;
+}
+
+.search-in{
+	border: 0px solid;
+	margin-left: .85em;
+	width: 87.5%;
+}
+
+.search-barr{
+	border: 1px solid #dfe1e5;
+	width: 42rem;
+	height: 3em;
+	border-radius: 50px;
+	display: flex;
+	align-items: center;
+}
+
+.noko {
+	margin-right: 1em;
+	display: none;
+}
+
+.lao :hover  {
+	
+	background-color: #fff;
+  box-shadow: 0 1px 6px rgba(32,33,36,.28);
+  border-color: rgba(223,225,229,0);
+}
+
+.search-in  {
+	box-shadow: none !important; 	
+}
+
+
+.svg-cont{
+	margin-left: 1.19em;
+	padding-top: 5px;
+}
+
+.brand-div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 2.15em;
+}
+
+.loi {
+	margin-top: 2em;
+}
+
+.gott{
+	background-color: #f8f9fa;
+border: 1px solid #f8f9fa;
+border-radius: 4px;
+color: #3c4043;
+font-family: arial,sans-serif;
+font-size: 14px;
+margin: 11pxx 4px;
+padding: 0 16px;
+line-height: 27px;
+height: 36px;
+min-width: 54px;
+text-align: center;
+cursor: pointer;
+
+}
+
+.gott:hover {
+	box-shadow: 0 1px 1px rgba(0,0,0,.1);
+	background-color: #f8f9fa;
+	border: 1px solid #dadce0;
+	color: #202124;
+}
+
+
+center input {
+	margin: 0 2px;
+}
+
+
+.masi{
+	/*display: flex;*/
+	/*justify-content: space-around;*/
+	/*width: 21em;*/
+}
+
+.laniko{
+	margin-top: 1.85em;
+}
+
+.top-exto{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 2em;
+}
+
+
+.losy {
+	font-size: 12px;
+}
+
+
+.loscs a{
+	color: #1a0dab;
+	text-decoration: none;
+	font-size: 12px;
+	padding: 0 4px;
+}
+
+.loscs a:hover {
+
+	text-decoration: underline;
+	
+}
+
+.nija{
+	width: 100%;
+	background-color: #f2f2f2;
+	color: rgba(0,0,0,.54);
+	border-bottom: 1.86px solid #dadce0;
+	font-size: 14px;
+}
+
+.nija div{
+	padding: 1.52em;
+}
+
+
+.about-vart{
+	display: flex;
+	justify-content: space-around;
+	width: 26.5em;
+}
+
+
+.cabon{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.borno{
+	height: 15.5px;
+	width: 13.5px;
+}
+
+.carbon-text{
+	padding-left: 9.5px;
+}
+
+.priva-term{
+	display: flex;
+	justify-content: space-around;
+	width: 18.34em;
+
+}
+
+footer .top-exi{
+	background-color: #f2f2f2;
+	color: rgba(0,0,0,.54);
+	font-size: 14px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding-left: 1em !important;
+	padding-right: 1em !important;
+	padding: 1.52em;
+
+}
+
+footer {
+	margin-top: 13.35em;
+}

@@ -63,6 +63,7 @@ body {
 	border: 0px solid;
 	margin-left: .85em;
 	width: 87.5%;
+	outline: none !important;
 }
 
 .search-barr{
@@ -217,7 +218,7 @@ center input {
 
 footer .top-exi{
 	background-color: #f2f2f2;
-	color: rgba(0,0,0,.54);
+	color: rgba(0,0,0,.54) ;
 	font-size: 14px;
 	display: flex;
 	flex-wrap: wrap;
